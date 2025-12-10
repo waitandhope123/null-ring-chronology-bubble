@@ -71,6 +71,25 @@ Quantum effects (Hawking-style chronology protection) are expected to destabiliz
 
 ## Repository Structure (Planned)
 
+---
+
+Motivation
+
+The purpose of this project is to explore how far classical gravity can be pushed — honestly and carefully — before it breaks, using the strongest observational constraints currently available.
+
+It represents the boundary between:
+
+what General Relativity allows in principle, and
+
+what the universe appears to permit in practice.
+
+---
+
+License
+
+This repository is provided for conceptual, educational, and exploratory purposes only.
+
+---
 ```text
 docs/        – Conceptual explanations and model definition
 theory/      – Assumptions, parameters, notation
