@@ -88,4 +88,4 @@ what the universe appears to permit in practice.
 
 ## License
 This repository is provided for conceptual, educational, and exploratory purposes only.
-For the motivation and philosophical framing of this project, see CONTEXT_SEED.md.
+For the motivation and philosophical framing of this project, see docs/context_seed.md.
