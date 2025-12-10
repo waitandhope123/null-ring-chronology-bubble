@@ -71,6 +71,13 @@ Quantum effects (Hawking-style chronology protection) are expected to destabiliz
 
 ## Repository Structure (Planned)
 
+```text
+docs/        – Conceptual explanations and model definition
+theory/      – Assumptions, parameters, notation
+figures/     – Diagrams and spacetime schematics
+notes/       – Rough ideas and references
+```
+
 ---
 
 Motivation
