@@ -78,7 +78,7 @@ figures/     – Diagrams and spacetime schematics
 notes/       – Rough ideas and references
 ```
 
-Motivation
+## Motivation
 
 The purpose of this project is to explore how far classical gravity can be pushed — honestly and carefully — before it breaks, using the strongest observational constraints currently available.
 
