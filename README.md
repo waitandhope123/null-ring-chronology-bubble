@@ -78,8 +78,6 @@ figures/     – Diagrams and spacetime schematics
 notes/       – Rough ideas and references
 ```
 
----
-
 Motivation
 
 The purpose of this project is to explore how far classical gravity can be pushed — honestly and carefully — before it breaks, using the strongest observational constraints currently available.
@@ -90,19 +88,8 @@ what General Relativity allows in principle, and
 
 what the universe appears to permit in practice.
 
----
-
 License
 
 This repository is provided for conceptual, educational, and exploratory purposes only.
-
----
-
-```text
-docs/        – Conceptual explanations and model definition
-theory/      – Assumptions, parameters, notation
-figures/     – Diagrams and spacetime schematics
-notes/       – Rough ideas and references
-```
 
 For the motivation and philosophical framing of this project, see CONTEXT_SEED.md.
