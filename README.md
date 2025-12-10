@@ -97,8 +97,12 @@ License
 This repository is provided for conceptual, educational, and exploratory purposes only.
 
 ---
+
 ```text
 docs/        – Conceptual explanations and model definition
 theory/      – Assumptions, parameters, notation
 figures/     – Diagrams and spacetime schematics
 notes/       – Rough ideas and references
+```
+
+For the motivation and philosophical framing of this project, see CONTEXT_SEED.md.
